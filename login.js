@@ -33,7 +33,7 @@ function openDashboard(window){
     slashes: true
   }));
   window.hide();
-  // main();
+  main();
 }
 
 module.exports = { login };
