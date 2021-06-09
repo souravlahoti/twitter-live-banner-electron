@@ -1,0 +1,36 @@
+{
+  "name": "live-banner",
+  "version": "1.0.0",
+  "description": "Live updates your Twitter Banner live after every one hour",
+  "main": "index.js",
+  "license": "AGPLv3",
+  "author": "Sourav Lahoti",
+  "scripts": {
+    "start": "electron .",
+    "dist": "electron-builder"
+  },
+  "dependencies": {
+    "electron-log": "^4.3.5",
+    "electron-store": "^8.0.0",
+    "jimp": "^0.2.27",
+    "node-notifier": "^10.0.0",
+    "oauth-electron-twitter": "^1.0.124",
+    "open": "^8.2.0",
+    "sharp": "^0.28.1",
+    "twemoji": "^13.0.2",
+    "twitter": "^1.7.1",
+    "twitter-v2": "^1.1.0"
+  },
+  "devDependencies": {
+    "electron": "^13.1.0",
+    "electron-builder": "^22.10.5"
+  },
+  "build": {
+    "appId": "com.souravlahoti.livebanner",
+    "productName": "Live Banner",
+    "mac": {
+      "target": "dmg",
+      "icon": "big-icon.png"
+    }
+  }
+}
