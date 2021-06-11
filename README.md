@@ -12,7 +12,6 @@
   <a href="#prerequisite">Prerequisite</a> •
   <a href="#installation">Installation</a> •
   <a href="#credits">Credits</a> •
-  <a href="#related">Related</a> •
   <a href="#license">License</a>
 </p>
 
