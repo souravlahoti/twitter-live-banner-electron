@@ -30,7 +30,7 @@
 
 ## Prerequisite
 
-To clone and run this application, you'll need [Git](https://git-scm.com) and [Node.js](https://nodejs.org/en/download/) (which comes with [npm](http://npmjs.com)) installed on your computer. From your command line:
+[Git](https://git-scm.com) and [Node.js](https://nodejs.org/en/download/) (which comes with [npm](http://npmjs.com)) installed on your computer from your command line:
 
 ## Installation
 
@@ -53,6 +53,7 @@ $ npm start
 I would like to credit [trungdq88](https://github.com/trungdq88) for the inspiration. 
 
 ![Tony Dinh](https://avatars.githubusercontent.com/u/4214509?size=50) 
+
 Find him on [twitter](https://twitter.com/tdinh_me)
 
 ## License
