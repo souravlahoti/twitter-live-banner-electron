@@ -6,7 +6,7 @@
   Twitter Live Banner
   <br>
 </h1>
-<h4 align="center"><a href="http://electron.atom.io" target="_blank">Electron</a> based app that updated your twitter banner automatically after every one hour.</h4>
+<h4 align="center"><a href="http://electron.atom.io" target="_blank">Electron</a> based app that updates your twitter banner automatically after every one hour.</h4>
 <p align="center">
   <a href="#key-features">Key Features</a> •
   <a href="#prerequisite">Prerequisite</a> •
